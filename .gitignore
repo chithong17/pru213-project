@@ -1,0 +1,58 @@
+﻿# Unity generated folders
+[Ll]ibrary/
+[Ll]ibrary2/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+[Mm]emoryCaptures/
+[Rr]ecordings/
+
+# Unity generated files
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Unity crash and backup files
+sysinfo.txt
+*.stackdump
+Assets/_Recovery/
+
+# Visual Studio / Rider / VS Code
+.vs/
+.vscode/
+.idea/
+*.DotSettings.user
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build artifacts and local outputs
+outputs/
+*.apk
+*.aab
+*.unitypackage
+*.app
+*.exe
+*.zip
+
+# Local dotnet/cache folders
+.dotnet/
+.nuget/
